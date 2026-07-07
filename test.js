@@ -8,7 +8,9 @@
 // let age = 21
 // let grade = "A"
 // console.table([name,age,grade])
-{
-    let  age = 21
-    console.log(age) //scope
-}
+
+// {
+//     let  age = 21
+//     console.log(age) //scope
+// }
+
