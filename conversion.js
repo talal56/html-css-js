@@ -22,4 +22,17 @@ let con = Number(test)
 // let num = 1
 let num = 0
 let convertBool = Boolean(num)
-console.log(convertBool)
+// console.log(convertBool)
+
+//operations
+
+// console.log(3**2)
+// console.log(2%3)
+
+// console.log(1+1)
+// console.log(1+ "1")
+// console.log("1"+ 1 )
+// console.log("1"+ 1 + 2 )
+// console.log(1+ 1 + "2")
+console.log(+true)
+console.log(+"")
